@@ -2,7 +2,7 @@ import React, { forwardRef, useCallback, useEffect, useMemo, useRef } from "reac
 import cx from "classnames";
 import { isNil, noop as NOOP } from "es-toolkit";
 import { Icon } from "@vibe/icon";
-import { Check, Remove } from "@vibe/icons";
+import { Bullet, Remove } from "@vibe/icons";
 import { useSupportFirefoxLabelClick } from "./hooks/useSupportFirefoxLabelClick";
 import useMergeRef from "../../hooks/useMergeRef";
 import { type VibeComponentProps } from "../../types";
@@ -169,7 +169,7 @@ const Checkbox = forwardRef(
             <Icon
               className={styles.icon}
               iconType="svg"
-              icon={indeterminate ? Remove : Check}
+              icon={indeterminate ? Remove : Bullet}
               ignoreFocusStyle
               ariaHidden={true}
               iconSize="16"
@@ -227,7 +227,7 @@ const Checkbox = forwardRef(
           <Icon
             className={styles.icon}
             iconType="svg"
-            icon={indeterminate ? Remove : Check}
+            icon={indeterminate ? Remove : Bullet}
             ignoreFocusStyle
             ariaHidden={true}
             iconSize="16"
