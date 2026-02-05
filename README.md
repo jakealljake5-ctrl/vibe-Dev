@@ -78,3 +78,11 @@ We welcome and encourage every contributor! Please read our [Contribution Guide]
 If you have any questions or suggestions, please feel free to open a [discussion](https://github.com/mondaycom/vibe/discussions).
 
 Found a bug? Please [open an issue](https://github.com/mondaycom/vibe/issues/new/choose).
+
+## Developer Humor
+
+Why did the Button component break up with the Icon?
+
+Because it couldn't handle the emotional `onClick` anymore! 😄
+
+Remember: In the world of UI components, every element deserves proper padding... and a little bit of margin for error!
