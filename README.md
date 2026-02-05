@@ -78,3 +78,7 @@ We welcome and encourage every contributor! Please read our [Contribution Guide]
 If you have any questions or suggestions, please feel free to open a [discussion](https://github.com/mondaycom/vibe/discussions).
 
 Found a bug? Please [open an issue](https://github.com/mondaycom/vibe/issues/new/choose).
+
+## Fun Fact
+
+Why do React developers make great comedians? Because they always know how to handle their props! 🎭
