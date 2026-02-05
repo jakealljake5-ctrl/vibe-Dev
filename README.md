@@ -78,3 +78,13 @@ We welcome and encourage every contributor! Please read our [Contribution Guide]
 If you have any questions or suggestions, please feel free to open a [discussion](https://github.com/mondaycom/vibe/discussions).
 
 Found a bug? Please [open an issue](https://github.com/mondaycom/vibe/issues/new/choose).
+
+---
+
+## A Vibe Limerick
+
+_There once was a system called Vibe,_  
+_With components that help you prescribe,_  
+_React with such ease,_  
+_Your users will please,_  
+_And join monday.com's design tribe!_
