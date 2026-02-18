@@ -38,6 +38,13 @@ To load all the relevant CSS tokens, import the tokens file in your root applica
 import "@vibe/core/tokens";
 ```
 
+## Quick Start Checklist
+
+- [ ] Install the package (`npm install @vibe/core`)
+- [ ] Import tokens in your root file (`import "@vibe/core/tokens"`)
+- [ ] Import and use your first component
+- [ ] Explore the [documentation](https://vibe.monday.com)
+
 ## Usage
 
 Components are imported from the library's root entry:
